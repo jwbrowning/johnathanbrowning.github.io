@@ -189,13 +189,11 @@ p {
   border-radius: 8px;
   margin: 20px 0;
   background: #000;
-  aspect-ratio: 16 / 9;
 }
 
 .project-preview-media {
   width: 100%;
   border-radius: 8px;
-  aspect-ratio: 16 / 9;
 }
 
 .project-preview-media video {
