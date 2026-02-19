@@ -2,7 +2,7 @@ import { professionalProjects, personalProjects } from "../data/projects"
 import ProjectCard from "../components/ProjectCard"
 import Layout from "../components/Layout"
 
-const description = "Software Engineer specializing in Unity development with 2+ years of professional experience architecting real-time 3D simulation systems in C#. Focused on deterministic system design, modular gameplay logic, and translating complex requirements into maintainable interactive applications. Below are selected projects highlighting both professional and personal work.";
+const description = "Software Engineer specializing in Unity development with 2+ years of professional experience architecting real-time 3D simulation systems in C#. Focused on deterministic system design, modular gameplay logic, and translating complex requirements into maintainable interactive applications. Below are selected projects highlighting both professional and personal work. Reach me at contact@johnathanbrowning.com";
 
 export default function Home() {
   return (
