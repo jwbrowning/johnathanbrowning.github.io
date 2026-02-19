@@ -146,7 +146,7 @@ export const personalProjects: Project[] = [
       type: "youtube",
       src: "https://www.youtube.com/embed/DHmwbUUOVG4?si=zQ32fZvuW25VBJjg&amp;start=21"
     },
-    tech: ["Unity", "C#"],
+    tech: ["Python", "React", "Node.js", "JavaScript", "Unity", "C#"],
     startDate: "2022",
     endDate: "Present",
     content: [
@@ -172,7 +172,7 @@ export const personalProjects: Project[] = [
       type: "youtube",
       src: "https://www.youtube.com/embed/EcxWRxjut5M?si=zMZEiOtc9c7TFlRA"
     },
-    tech: ["Python", "React", "Node.js", "JavaScript", "Unity", "C#"],
+    tech: ["Unity", "C#"],
     startDate: "2020",
     endDate: "2021",
     content: [
