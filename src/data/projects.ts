@@ -32,7 +32,7 @@ export const professionalProjects: Project[] = [
     },
     tech: ["Unity", "C#"],
     startDate: "11/2023",
-    endDate: "Present",
+    endDate: "02/2026",
     content: [
         {
             type: "header",
