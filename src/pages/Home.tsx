@@ -2,7 +2,7 @@ import { professionalProjects, personalProjects } from "../data/projects"
 import ProjectCard from "../components/ProjectCard"
 import Layout from "../components/Layout"
 
-const description = "Unity Software Engineer with 2+ years of experience building real-time 3D simulations in C#. My work centers on modular gameplay systems, deterministic logic, and translating complex technical specifications into interactive software.";
+const description = "Experienced Software Engineer focused on designing and implementing real-time simulation systems and games. Skilled in translating complex specifications into accurate, interactive software, with a background spanning system architecture, state machines, and 3D environments.";
 const description2 = "Below are my professional experiences and selected personal projects."
 const description3 = "Reach me at contact@johnathanbrowning.com"
 
